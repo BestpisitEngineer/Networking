@@ -65,6 +65,17 @@
     "hour":0,
     "minutes":0,
     "second":0
+   },
+   {
+    "year":2021,
+    "month":12,
+    "day":30,
+    "topic":"Tuition payment day",
+    "signature":"Tuition",
+    "text":"Don'y forget to payment",
+    "hour":23,
+    "minutes":59,
+    "second":59
   }
     ]
 }
