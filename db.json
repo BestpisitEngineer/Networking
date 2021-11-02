@@ -10,6 +10,28 @@
     "hour":24,
     "minutes":59,
     "second":59
-  }
+  },
+  {
+    "year":2021,
+    "month":11,
+    "day":19,
+    "topic":"Loi Kratong",
+    "signature":"Yeepeng",
+    "text":"This is not a holiday it's friday and we have to study first",
+    "hour":0,
+    "minutes":0,
+    "second":1
+  },
+  {
+    "year":2021,
+    "month":12,
+    "day":25,
+    "topic":"Christmas day",
+    "signature":"Merry xmas",
+    "text":"This is a holiday. Go enjoy your time with friends!",
+    "hour":0,
+    "minutes":0,
+    "second":1
+  },
     ]
 }
