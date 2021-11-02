@@ -33,5 +33,16 @@
     "minutes":0,
     "second":1
   },
+  {
+   "year":2021,
+   "month":12,
+   "day":25,
+   "topic":"christmas",
+   "signature":"Santa",
+   "text":"Merry Christmas"
+   "hour":0,
+   "minutes":0,
+   "second":0
+  }
     ]
 }
