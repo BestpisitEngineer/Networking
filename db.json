@@ -43,6 +43,28 @@
     "hour":0,
     "minutes":0,
     "second":1
+  },
+   {
+    "year":2021,
+    "month":11,
+    "day":8,
+    "topic":"First Day of the second semester",
+    "signature":"2nd Sem",
+    "text":"Go to party with your friends",
+    "hour":0,
+    "minutes":0,
+    "second":0
+  },
+   {
+    "year":2021,
+    "month":11,
+    "day":11,
+    "topic":"Grade Report",
+    "signature":"GradeFirst",
+    "text":"Good luck with your grade",
+    "hour":0,
+    "minutes":0,
+    "second":0
   }
     ]
 }
