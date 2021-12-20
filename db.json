@@ -10,8 +10,8 @@
     "hour":24,
     "minutes":59,
     "second":59,
-    "r":0,
-    "g":255,
+    "r":255,
+    "g":0,
     "b":255
   },
   {
@@ -33,12 +33,12 @@
     "month":12,
     "day":25,
     "topic":"Christmas day",
-    "signature":"Merry xmas",
+    "signature":"MerryXmas",
     "text":"This is a holiday. Go enjoy your time with friends!",
     "hour":0,
     "minutes":0,
     "second":1,
-    "r":0,
+    "r":255,
     "g":255,
     "b":255
   },
@@ -84,20 +84,6 @@
     "g":255,
     "b":255
    },
-   {
-    "year":2021,
-    "month":12,
-    "day":30,
-    "topic":"Last day to pay tuition",
-    "signature":"Tuition",
-    "text":"Don'y forget to payment",
-    "hour":23,
-    "minutes":59,
-    "second":59,
-     "r":0,
-    "g":255,
-    "b":255
-  },
     {
     "year":2021,
     "month":12,
