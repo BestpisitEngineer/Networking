@@ -109,7 +109,35 @@
     "minutes":30,
     "second":0,
       "r":255,
-    "g":64,
+    "g":255,
+    "b":51
+  },
+    {
+    "year":2021,
+    "month":12,
+    "day":23,
+    "topic":"Citizenship zoom meeting",
+    "signature":"CitizenZoom",
+    "text":"For attendance dont absent.",
+    "hour":13,
+    "minutes":0,
+    "second":0,
+      "r":25,
+    "g":255,
+    "b":255
+  },
+    {
+    "year":2021,
+    "month":12,
+    "day":23,
+    "topic":"Midterm examination for programming for ISNE",
+    "signature":"MidtermProg",
+    "text":"This is going to be harder exam than other.",
+    "hour":13,
+    "minutes":0,
+    "second":0,
+      "r":255,
+    "g":25,
     "b":25
   }
     ]
