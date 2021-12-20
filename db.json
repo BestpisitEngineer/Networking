@@ -9,7 +9,10 @@
     "text":"Good luck!",
     "hour":24,
     "minutes":59,
-    "second":59
+    "second":59,
+    "r":0,
+    "g":255,
+    "b":255
   },
   {
     "year":2021,
@@ -20,7 +23,10 @@
     "text":"This is not a holiday it's friday and we have to study first",
     "hour":0,
     "minutes":0,
-    "second":1
+    "second":1,
+    "r":0,
+    "g":255,
+    "b":255
   },
   {
     "year":2021,
@@ -31,7 +37,10 @@
     "text":"This is a holiday. Go enjoy your time with friends!",
     "hour":0,
     "minutes":0,
-    "second":1
+    "second":1,
+    "r":0,
+    "g":255,
+    "b":255
   },
   {
     "year":2021,
@@ -42,7 +51,10 @@
     "text":"Go to party with your friends",
     "hour":0,
     "minutes":0,
-    "second":1
+    "second":1,
+    "r":0,
+    "g":255,
+    "b":255
   },
    {
     "year":2021,
@@ -53,7 +65,10 @@
     "text":"Go to party with your friends",
     "hour":0,
     "minutes":0,
-    "second":0
+    "second":0,
+     "r":0,
+    "g":255,
+    "b":255
   },
    {
     "year":2021,
@@ -64,7 +79,10 @@
     "text":"Good luck with your grade",
     "hour":0,
     "minutes":0,
-    "second":0
+    "second":0,
+     "r":0,
+    "g":255,
+    "b":255
    },
    {
     "year":2021,
@@ -75,7 +93,10 @@
     "text":"Don'y forget to payment",
     "hour":23,
     "minutes":59,
-    "second":59
+    "second":59,
+     "r":0,
+    "g":255,
+    "b":255
   },
     {
     "year":2021,
@@ -86,7 +107,10 @@
     "text":"Be punctual do not late",
     "hour":9,
     "minutes":30,
-    "second":0
+    "second":0,
+      "r":0,
+    "g":255,
+    "b":255
   }
     ]
 }
